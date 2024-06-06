@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Loops, Methods &amp; Arrays/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/While Loops, Methods &amp; Arrays/Challenges/Challenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaLearn V1.0.iml" filepath="$PROJECT_DIR$/.idea/JavaLearn V1.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/While Loops, Methods &amp; Arrays/While Loops, Methods &amp; Arrays.iml" filepath="$PROJECT_DIR$/While Loops, Methods &amp; Arrays/While Loops, Methods &amp; Arrays.iml" />
     </modules>
